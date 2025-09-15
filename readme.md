@@ -43,10 +43,12 @@ jupyter notebook transfer_learning_BERT.ipynb
 ```
 
 ## 📊 Results Snapshot
-Domain / Language	Accuracy	Notes
-🎬 IMDb Reviews	✅ High	Model fine-tuned here
-💰 Finance News	⚠️ Medium	Domain mismatch
-🌏 Chinese Text	❌ Low	Language gap
+| Domain / Language | Accuracy  | Notes                 |
+| ----------------- | --------- | --------------------- |
+| 🎬 IMDb Reviews   | ✅ High    | Model fine-tuned here |
+| 💰 Finance News   | ⚠️ Medium | Domain mismatch       |
+| 🌏 Chinese Text   | ❌ Low     | Language gap          |
+
 
 ## 🌟 Why This Repo?
 Educational: Learn BERT fine-tuning step by step.
@@ -61,4 +63,5 @@ Fine-tune on finance news dataset.
 Try multilingual models (e.g., bert-base-multilingual-cased).
 
 Add evaluation metrics (F1, recall, precision).
+
 
