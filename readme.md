@@ -32,8 +32,8 @@ This repository demonstrates **transfer learning with BERT**:
 ## ⚡ Quick Start
 Clone this repo and install dependencies:
 ```bash
-git clone https://github.com/your-username/BERT-CrossDomain-Challenges.git
-cd BERT-CrossDomain-Challenges
+git clone https://github.com/wajason/FineTune-BERT-Sentiment-Playground.git
+cd FineTune-BERT-Sentiment-Playground
 pip install -r requirements.txt
 ```
 Run the notebook:
@@ -63,5 +63,6 @@ Fine-tune on finance news dataset.
 Try multilingual models (e.g., bert-base-multilingual-cased).
 
 Add evaluation metrics (F1, recall, precision).
+
 
 
